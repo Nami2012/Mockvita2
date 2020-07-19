@@ -1,5 +1,5 @@
-Swayamvar
-Problem Description
+## Swayamvar
+# Problem Description
 
 A ceremony where a Bride chooses her Groom from an array of eligible bachelors is called Swayamvar. But this is a Swayamvar with difference. An array of Bride-to-be will choose from an array of Groom-to-be.
 
@@ -29,11 +29,11 @@ Note : There are equal number of brides and grooms for the swayamvar.
 
 Tyrion as the hand of the king wants to know how many pairs will be left unmatched. Can you help Tyrion?
 
-Constraints
+# Constraints
 
 1<= N <= 10^4
 
-Input Format
+# Input Format
 
 First line contains one integer N, which denotes the number of brides and grooms taking part in the swayamvar.
 
@@ -41,7 +41,7 @@ Second line contains a string in lowercase, of length N containing initial state
 
 Third line contains a string in lowercase, of length N containing initial state of grooms-to-be. Each string contains only lowercase 'r' and 'm' stating person at that index drinks "rum"(for 'r') or mojito(for 'm').
 
-Output
+# Output
 
 Output a single integer denoting the number of pairs left unmatched.
 

@@ -1,5 +1,5 @@
-Petrol Pump
-Problem Description
+## Petrol Pump
+# Problem Description
 
 A big group of students, starting a long journey on different set of vehicles need to fill petrol in their vehicles.
 
@@ -7,24 +7,25 @@ As group leader you are required to minimize the time they spend at the petrol p
 
 Assume that there is no time lost between switching vehicles to start filling petrol.
 
-Constraints
+# Constraints
 
 1<= Number of vehicles < 50.
 
 0 <= Quantity of petrol required in any vehicle <= 200
 
-Input Format
+# Input Format
 
 First line will provide the quantity of petrol (separated by space) that can be filled in each vehicle.
 
-Output
+# Output
 
 Shortest possible time to fill petrol in all the vehicles.
 
-Timeout
+# Timeout
 
 1
-Explanation
+
+# Explanation
 
 Example 1
 

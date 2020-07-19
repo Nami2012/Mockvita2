@@ -1,5 +1,5 @@
-Digit Pairs
-Problem Description
+## Digit Pairs
+# Problem Description
 
 Given N three-digit numbers, your task is to find bit score of all N numbers and then print the number of pairs possible based on these calculated bit score.
 
@@ -37,24 +37,24 @@ Condition for making pairs are
 
 · Pairs can be only made if most significant digit are same and at most two pair can be made for a given significant digit.
 
-Constraints
+# Constraints
 
 N<=500
 
-Input Format
+# Input Format
 
 First line contains an integer N, denoting the count of numbers.
 
 Second line contains N 3-digit integers delimited by space
 
-Output
+# Output
 
 One integer value denoting the number of bit pairs.
 
-Timeout
+# Timeout
 
 1
-Explanation
+# Explanation
 
 Example 1
 

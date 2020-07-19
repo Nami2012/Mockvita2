@@ -1,5 +1,5 @@
-Grooving Monkeys
-Problem Description
+## Grooving Monkeys
+# Problem Description
 
 N monkeys are invited to a party where they start dancing. They dance in a circular formation, very similar to a Gujarati Garba or a Drum Circle. The dance requires the monkeys to constantly change positions after every 1 second.
 
@@ -11,13 +11,13 @@ This array (1-indexed) is the dancing pattern. The value at monkeys[i], indicate
 
 Given N & the array monkeys[ ], find the time after which all monkeys are in the initial positions for the 1st time.
 
-Constraints
+# Constraints
 
 1<=t<=10 (test cases)
 
 1<=N<=10000 (Number of monkeys)
 
-Input Format
+# Input Format
 
 First line contains single integer t, denoting the number of test cases.
 
@@ -27,13 +27,13 @@ Integer N denoting the number of monkeys.
 
 Next line contains N integer denoting the dancing pattern array, monkeys[].
 
-Output
+# Output
 
 t lines,
 
 Each line must contain a single integer T, where T is the minimum number of seconds after which all the monkeys are in their initial position.
 
-Timeout
+# Timeout
 
 1
 Explanation
