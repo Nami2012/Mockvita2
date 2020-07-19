@@ -48,7 +48,7 @@ Output a single integer denoting the number of pairs left unmatched.
 Timeout
 
 1
-Explanation
+# Explanation
 
 Example 1
 
